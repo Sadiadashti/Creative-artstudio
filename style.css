@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #fdfcf9;
+    /* background-image: url(bg.png */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header{
+     display:flex; 
+     justify-content:space-between; 
+     align-items:center; 
+     padding:10px 50px; 
+     background-color: orchid;
+}
+.logo{
+    font-family: 'Pacifico',cursive;
+    font-size: 40px;
+    color:black;
+    margin-bottom: 10px;
+}
+
+span{
+    color: orange;
+    font-family: 'Pacifico',cursive;
+}
+
+ul{
+   display: flex;
+    color:#1E3A8A;
+   list-style: none;
+   font-size: 20px;
+   text-align: right;
+   font-weight: 500px;
+   margin-left: 100px;
+   margin-bottom: 15px;
+}
+li{
+     margin:10px;
+    text-align: right;
+    cursor: pointer;
+}
+
+.navbar  {
+    background: orange;
+    border: 2px orange solid;
+    /* padding: 8px 8px; */
+    color: white;
+    border-radius: 30px;
+}
+
+.href{
+    font-size: 30px;
+    font-family: 'Pacifico',cursive;
+    text-decoration: outline;
+}
+
+.navbar:hover{
+    background-color: orange;
+    border: 2px orange solid;
+    color: white;
+}
+
+.hero {
+    display: flex;
+    align-items: center;
+    padding: 60px;
+    /* margin-left: 500px; */
+    /* background-image: url(bg.png); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.hero-text h1 {
+    font-size: 70px;
+    font-family: 'Pacifico' ,cursive;
+    margin-left: 400px;
+}
+
+.hero-text span {
+    color: orange;
+    font-family: 'Pacifico' ,cursive;
+    margin-left: 30px;
+    font-size: 70px;
+    text-align: center;
+}
+
+hr{
+    margin-left: 420px;
+}
+
+.hero-text p {
+    margin-left: 420px;
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+.btn {
+    background: orange;
+    color: white;
+    border: 2px  orange solid;
+    padding: 12px 25px;
+    border-radius: 60px;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    padding: 40px;
+}
+
+.card {
+    background: white;
+    padding: 30px;
+    width: 220px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.gallery  {
+    text-align: center;
+    padding: 50px;
+
+    font-family: 'Pacifico' ,cursive;
+    font-size: 30px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 530px;
+    padding: 10px 10px;
+    border-radius: 70px;
+    font-size: 20px;
+    background-color: orange;
+    color: white;
+    border: 3px orange solid;
+}
+
+.btn:hover{
+      background-color: orange;
+      color: white;
+      border: 3px orange solid;
+}
+
+.gallery-grid img {
+    width: 100%;
+    border-radius: 10px;
+    margin-left: 200px;
+}
+ h2{
+     font-size: 60px;
+     font-family: 'Pacifico',cursive;
+}
+
+.newsletter {
+    text-align: center;
+    padding: 50px;
+    /* margin-left: -400px; */
+}
+
+.subscribe {
+    margin-top: 20px;
+}
+
+.subscribe input {
+    padding: 12px;
+    width: 250px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.subscribe button {
+    padding: 12px 20px;
+    background: orange;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+
+.subscribe button:hover{
+     background-color: orange;
+     color: white;
+     border: 2px orange solid;
+}
+
+.newsletter p{
+    font-family: 'Pacifico',cursive;
+    font-size: 30px;
+}
+.bg{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
