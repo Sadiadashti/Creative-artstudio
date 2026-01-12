@@ -21,7 +21,7 @@ body {
 }
 .logo{
     font-family: 'Pacifico',cursive;
-    font-size: 40px;
+    font-size: 50px;
     color:black;
     margin-bottom: 10px;
 }
@@ -42,7 +42,7 @@ ul{
    margin-bottom: 15px;
 }
 li{
-     margin:10px;
+     margin:20px;
     text-align: right;
     cursor: pointer;
 }
@@ -80,7 +80,7 @@ li{
 .hero-text h1 {
     font-size: 70px;
     font-family: 'Pacifico' ,cursive;
-    margin-left: 300px;
+    margin-left: 350px;
 }
 
 .hero-text span {
@@ -92,12 +92,12 @@ li{
 }
 
 hr{
-    margin-left: 300px;
+    margin-left: 350px;
 
 }
 
 .hero-text p {
-    margin-left: 300px;
+    margin-left: 350px;
     font-size: 35px;
     margin-top: 30px;
 }
@@ -140,7 +140,7 @@ hr{
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-left: 500px;
+    margin-left: 550px;
     padding: 10px 10px;
     border-radius: 70px;
     font-size: 20px;
