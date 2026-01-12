@@ -42,7 +42,7 @@ ul{
    margin-bottom: 15px;
 }
 li{
-     margin:18px;
+     margin:10px;
     text-align: right;
     cursor: pointer;
 }
@@ -71,7 +71,7 @@ li{
     display: flex;
     align-items: center;
     padding: 60px;
-    /* margin-left: 500px; */
+    margin-left: 300px;
     /* background-image: url(bg.png); */
     background-size: cover;
     background-repeat: no-repeat;
