@@ -81,6 +81,7 @@ li{
     font-size: 70px;
     font-family: 'Pacifico' ,cursive;
     margin-left: 320px;
+    text-align: center;
 }
 
 .hero-text span {
@@ -89,6 +90,7 @@ li{
     margin-left: 30px;
     font-size: 70px;
     text-align: center;
+
 }
 
 hr{
@@ -97,8 +99,8 @@ hr{
 }
 
 .hero-text p {
-    margin-left: 320px;
-    font-size: 35px;
+    margin-left: 350px;
+    font-size: 30px;
     margin-top: 30px;
 }
 
@@ -110,8 +112,7 @@ hr{
     border-radius: 60px;
     font-size: 16px;
     margin-top: 20px;
-    margin-left: 380
-        px;
+    margin-left: 380px;
 }
 
 .services {
